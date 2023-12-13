@@ -1,0 +1,12 @@
+/* i am hiding this part */
+
+/* ------------about---------------- */
+.facts,
+.testimonials {
+  display: none;
+}
+
+/* -------------contact------------- */
+.contact-form {
+  display: none;
+}
